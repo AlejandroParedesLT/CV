@@ -8,3 +8,9 @@ hr{
     border-width: 5px;
     width: 5%;
 }
+div{
+    background-color: aqua;
+}
+h1{
+    margin-left: 3cm;
+}
